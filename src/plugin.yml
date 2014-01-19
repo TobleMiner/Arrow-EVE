@@ -1,0 +1,11 @@
+name: ArrowEnvironmentalEffects
+version: 0.6.1
+description: LOL NO
+author: Tobias Schramm 'Toble_Miner'
+website: NOPE.avi
+
+main: Toble_Miner.ArrowEnvironmentalEffects.main
+
+commands:
+
+permissions:
